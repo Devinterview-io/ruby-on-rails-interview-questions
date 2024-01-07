@@ -1,111 +1,998 @@
-<div data-v-5e9078c0="" data-v-b06dc010="" class="QuestionsList"><div data-v-5e9078c0=""><h1 data-v-5e9078c0="">Top 72 Ruby on Rails interview
-    questions and answers in 2021.</h1> <p data-v-5e9078c0="">
-      You can check all
-      72
-      Ruby on Rails interview questions here 👉
-      https://devinterview.io/dev/rubyOnRails-interview-questions
-    </p> <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. What Is ORM In Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>ORM</strong> tends for Object-Relationship-Model, where Classes are mapped to table in the database, and Objects are directly mapped to the rows in the table.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Is ORM In Rails? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 2. Explain what is rake in Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>Rake</strong> is a Ruby Make; it is a Ruby utility that substitutes the Unix utility ‘make’, and uses a ‘Rakefile’ and ‘.rake files’ to build up a list of tasks. In Rails, Rake is used for normal administration tasks like migrating the database through scripts, loading a schema into the database, etc.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Explain what is rake in Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 3. Explain what is Ruby on Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li>Ruby: It is an object-oriented programming language inspired by PERL and Python</li><li>Rails: It is a framework used for building web applications</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://stackoverflow.com/" rel="noreferrer" target="_blank" title="Explain what is Ruby on Rails? Interview Questions Source To Answer">Stackoverflow.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 4. Mention what is Rails Migration?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Rails Migration enables Ruby to make changes to the database schema, making it possible to use a version control system to leave things synchronized with the actual code.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what is Rails Migration? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 5. Explain what is ORM (Object-Relationship-Model) in Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>ORM or Object Relationship Model in Rails indicate that your classes are mapped to the table in the database, and objects are directly mapped to the rows in the table.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Explain what is ORM (Object-Relationship-Model) in Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 6. Explain what is the role of sub-directory app/controllers and app/helpers?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li>App/controllers: A web request from the user is handled by the Controller. The controller sub-directory is where Rails looks to find controller classes</li><li>App/helpers: The helper’s sub-directory holds any helper classes used to assist the view, model and controller classes.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Explain what is the role of sub-directory app/controllers and app/helpers? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 7. Explain what is Rails Active Record in Ruby on Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Rails active record is the Object/Relational Mapping (ORM) layer supplied with Rails. It follows the standard ORM model as</p><ul><li>Table map to classes</li><li>Rows map to objects</li><li>Columns map to object attributes</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title=" Explain what is Rails Active Record in Ruby on Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 8. Mention what are the limits of Ruby on Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Ruby on Rails has been designed for creating a CRUD web application using MVC. Some of the features that Rails does not support include:</p><ul><li>Foreign key in databases</li><li>Linking to multiple database at once</li><li>Soap web services</li><li>Connection to multiple database servers at once</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what are the limits of Ruby on Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 9. Mention what is the role of Rails Controller?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The Rails <strong>controller</strong> is the logical center of the application. It facilitates the interaction between the users, views, and the model. It also performs other activities like</p><ul><li>It is capable of routing external requests to internal actions. It handles URL extremely well</li><li>It regulates helper modules, which extend the capabilities of the view templates without bulking of their code</li><li>It regulates sessions; that gives users the impression of an ongoing interaction with our applications</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what is the role of Rails Controller? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 10. What is the use of load and require in Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li>You use <code>load()</code> to execute code </li><li>use <code>require()</code> to import libraries.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="http://anilpunjabi.tumblr.com/post/25948339235/ruby-and-rails-interview-questions-and-answers" rel="noreferrer" target="_blank" title="What is the use of load and require in Ruby? Interview Questions Source To Answer">anilpunjabi.tumblr.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 11. What Do You Mean By Render And Redirect_to?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><p><em>render</em> causes rails to generate a response whose content is provided by rendering one of your templates. Means, it will direct goes to view page.</p></li><li><p><em>redirect_to</em> generates a response that, instead of delivering content to the browser, just tells it to request another url. Means it first checks actions in controller and then goes to view page.</p></li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Do You Mean By Render And Redirect_to? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 12. What Are Helpers And How To Use Helpers In ROR?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>Helpers</strong> are modules that provide methods which are automatically usable in your view. They provide shortcuts to commonly used display code and a way for you to keep the programming out of your views. The purpose of a helper is to simplify the view.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Are Helpers And How To Use Helpers In ROR? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 13. What Are The Various Components Of Rail?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ol><li><strong>Action Pack</strong>: Action Pack is a single gem that contains Action Controller, Action View and Action Dispatch. The "VC" part of "MVC".</li></ol><ul><li><p>Action Controller: Action Controller is the component that manages the controllers in a Rails application. The Action Controller framework processes incoming requests to a Rails application, extracts parameters, and dispatches them to the intended action.</p></li><li><p>Action View: Action View manages the views of your Rails application. It can create both HTML and XML output by default. Action View manages rendering templates, including nested and partial templates, and includes built-in AJAX support.</p></li><li><p>Action Dispatch: Action Dispatch handles routing of web requests and dispatches them as you want, either to your application or any other Rack application. Rack applications are a more advanced topic and are covered in a separate guide called Rails on Rack.</p></li></ul><ol start="2"><li><p><strong>Action Mailer</strong>: Action Mailer is a framework for building e-mail services. You can use Action Mailer to receive and process incoming email and send simple plain text or complex multipart emails based on flexible templates.</p></li><li><p><strong>Active Model</strong>: Active Model provides a defined interface between the Action Pack gem services and Object Relationship Mapping gems such as Active Record. Active Model allows Rails to utilize other ORM frameworks in place of Active Record if your application needs this.</p></li><li><p><strong>Active Record</strong>: Active Record are like Object Relational Mapping (ORM), where classes are mapped to table, objects are mapped to columns and object attributes are mapped to data in the table.</p></li><li><p><strong>Active Resource</strong>: Active Resource provides a framework for managing the connection between business objects and RESTful web services. It implements a way to map web-based resources to local objects with CRUD semantics.</p></li><li><p><strong>Active Support</strong>: Active Support is an extensive collection of utility classes and standard Ruby library extensions that are used in Rails, both by the core code and by your applications.</p></li></ol></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Are The Various Components Of Rail? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 14. How Is Visibility Of Methods Changed In Ruby (encapsulation)?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>By applying the access modifier: </p><ul><li>Public, </li><li>Private and </li><li>Protected</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="How Is Visibility Of Methods Changed In Ruby (encapsulation)? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 15. What do you mean by the term Scaffolding and what sort of advantages the Ruby can offer when it comes to same?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>While developing the projects, the users often have to write codes in the early stage of development. These codes help building the application in a very reliable manner and quickly and also, a close eye can be kept on the working of some major components with this approach. In Ruby, the scaffolding is done automatically and the users are free to concentrate on the core development only from the first day of development. </p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://mindmajix.com/ruby-rails-interview-questions" rel="noreferrer" target="_blank" title="What do you mean by the term Scaffolding and what sort of advantages the Ruby can offer when it comes to same? Interview Questions Source To Answer">mindmajix.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 16. What Is MVC? And How It Works?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>MVC</strong> tends for Model-View-Controller, used by many languages like PHP, Perl, Python etc. The flow goes like this:</p><p>Request first comes to the controller, controller finds and appropriate view and interacts with model, model interacts with your database and send the response to controller then controller based on the response give the output parameter to view.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Is MVC? And How It Works? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 17. Explain how you define Instance Variable, Global Variable and Class Variable in Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li>Ruby Instance variable begins with — <strong>@</strong></li><li>Ruby Class variables begin with — <strong>@@</strong></li><li>Ruby Global variables begin with — <strong>$</strong></li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Explain how you define Instance Variable, Global Variable and Class Variable in Ruby? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 18. How Many Types Of Relationships Does A Model Has?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ol><li>has_one</li><li>belongs_to</li><li>has_many</li><li>has_many :through</li></ol></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="How Many Types Of Relationships Does A Model Has? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 19. Mention what are the positive aspects of Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Rails provides many features like:</p><ul><li><strong>Meta-programming</strong>: Rails uses code generation but for heavy lifting it relies on meta-programming. Ruby is considered as one of the best language for Meta-programming.</li><li><strong>Active Record</strong>: It saves object to the database through Active Record Framework. The Rails version of Active Record identifies the column in a schema and automatically binds them to your domain objects using metaprogramming</li><li><strong>Scaffolding</strong>: Rails have an ability to create scaffolding or temporary code automatically</li><li><strong>Convention over configuration</strong>: Unlike other development framework, Rails does not require much configuration, if you follow the naming convention carefully</li><li><strong>Three environments</strong>: Rails comes with three default environment testing, development, and production.</li><li><strong>Built-in-testing</strong>: It supports code called harness and fixtures that make test cases to write and execute.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what are the positive aspects of Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 20. Mention what is the difference between a gem and a plugin in Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><strong>Gem</strong>: A gem is a just ruby code. It is installed on a machine, and it’s available for all ruby applications running on that machine.</li><li><strong>Plugin</strong>: Plugin is also ruby code, but it is installed in the application folder and only available for that specific application.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what is the difference between a gem and a plugin in Ruby? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 21. How Many Types Of Associations Relationships Does A Model Have?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>When you have more than one model in your rails application, you would need to create connection between those models. You can do this via associations. Active Record supports three types of associations:</p><ul><li><p><strong>one-to-one</strong>: A one-to-one relationship exists when one item has exactly one of another item. For example, a person has exactly one birthday or a dog has exactly one owner.</p></li><li><p><strong>one-to-many</strong>: A one-to-many relationship exists when a single object can be a member of many other objects. For instance, one subject can have many books.</p></li><li><p><strong>many-to-many</strong>: A many-to-many relationship exists when the first object is related to one or more of a second object, and the second object is related to one or many of the first object.</p></li></ul><p>You indicate these associations by adding declarations to your models: </p><ul><li><code>has_one</code>, </li><li><code>has_many</code>, </li><li><code>belongs_to</code>,</li><li><code>has_and_belongs_to_many</code></li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="How Many Types Of Associations Relationships Does A Model Have? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 22. Explain what is a class library in Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>Ruby class</strong> libraries consist of a variety of domains, such as thread programming, data types, various domains, etc. These classes give flexible capabilities at a high level of abstraction, giving you the ability to create powerful Ruby scripts useful in a variety of problem domains. The following domains which have relevant class libraries are,</p><ul><li>GUI programming</li><li>Network programming</li><li>CGI Programming</li><li>Text processing</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Explain what is a class library in Ruby? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 23. List out what can Rails Migration do?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Rails Migration can do following things</p><ul><li>Create table</li><li>Drop table</li><li>Rename table</li><li>Add column</li><li>Rename column</li><li>Change column</li><li>Remove column and so on</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="List out what can Rails Migration do? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 24. What Is The Difference Between Nil And False In Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>False is a boolean datatype, Nil is not a data type it have object_id 4.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Is The Difference Between Nil And False In Ruby? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 25. What is the purpose of the resources method in the code snippet below?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div class="mb-2"><span class="h5">Problem</span></div><div><div class="AnswerBody"><p>Consider:</p><pre><code>resources <span class="token symbol">:posts</span> <span class="token cVar">do</span>
-  member <span class="token cVar">do</span>
-      get ‘messages’
-  <span class="token cVar">end</span>
-  collection <span class="token cVar">do</span>
-      post ‘bulk_upload'
-  <span class="token cVar">end</span>
-<span class="token cVar">end</span></code></pre></div></div><div><div class="AnswerBody"><p>Defining routes with the <code>resources</code> method automatically generates routes for the seven standard RESTful actions:</p><ul><li>GET /messages</li><li>POST /messages</li><li>GET /messages/new</li><li>GET /messages/:id/edit</li><li>GET /messages/:id</li><li>PATCH/PUT /messages/:id</li><li>DELETE /messages/:id</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.upwork.com/i/interview-questions/ruby-on-rails/" rel="noreferrer" target="_blank" title="What is the purpose of the resources method in the code snippet below? Interview Questions Source To Answer">upwork.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 26. Mention what is the difference in scope for these two variables: @@name and @name?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The difference in scope for these two variables is that:</p><ul><li><code>@@name</code> is a class variable</li><li><code>@name</code> is an instance variable</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what is the difference in scope for these two variables: `@@name` and `@name`? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 27. What Things We Can Define In The Model?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>There are lot of things you can define in models, the few are:</p><ol><li>Validations (like validates_presence_of, numeracility_of, format_of etc.)</li><li>Relationships (like has_one, has_many, HABTM etc.)</li><li>Callbacks (like before_save, after_save, before_create etc.)</li><li>Suppose you installed a plugin say validation_group, So you can also define validation_group settings in your model</li><li>ROR Queries in Sql</li><li>Active record Associations Relationship</li></ol></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.wisdomjobs.com/e-university/ruby-on-rails-interview-questions.html" rel="noreferrer" target="_blank" title="What Things We Can Define In The Model? Interview Questions Source To Answer">wisdomjobs.com/</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 28. How should you use nested layouts?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The layouts removes code duplication in view layer. You are able to slice all your application pages to blocks such as header, footer, sidebar, body and etc.</p><p>A generated Rails application has a default layout and it’s defined in the <code>app/views/layouts/application.html.erb</code>. On the screen above there is only one dynamic block - it’s the body, the footer, the header and the sidebar are common blocks for each page. So the code for the layout may look like this:</p><pre><code><span class="token cComment">&lt;!DOCTYPE html&gt;</span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>html</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>head</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>head</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>body</span><span class="token cBase">&gt;</span></span>
-  &lt;%= render 'shared/header' %&gt;
-  &lt;%= render 'shared/sidebar' %&gt;
-  &lt;%= yield %&gt;
-  &lt;%= render 'shared/footer' %&gt;
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>html</span><span class="token cBase">&gt;</span></span></code></pre><p>The <code>yield</code> in the code above is the place in which any action template will be rendered. This is a default Rails behavior.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://railsguides.net/rails-nested-layouts/" rel="noreferrer" target="_blank" title="How should you use nested layouts? Interview Questions Source To Answer">railsguides.net</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 29. What is the purpose of the rakefile available in the demo directory in Ruby?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The purpose of this simple question is to make sure a developer is familiar with a test-driven development. A beginner may not have dealt with this file yet. The rakefile is similar to the makefile in Unix, and assists with packaging and testing Rails code. It’s used by the rake utility, which ships natively with the Ruby installation.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.upwork.com/i/interview-questions/ruby-on-rails/" rel="noreferrer" target="_blank" title="What is the purpose of the rakefile available in the demo directory in Ruby? Interview Questions Source To Answer">upwork.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 30. Mention what is the function of garbage collection in Ruby on Rails?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The functions of <strong>garbage collection</strong> in Ruby on Rails includes</p><ul><li>It enables the removal of the pointer values which is left behind when the execution of the program ends</li><li>It frees the programmer from tracking the object that is being created dynamically on runtime</li><li>It gives the advantage of removing the inaccessible objects from the memory, and allows other processes to use the memory</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://career.guru99.com/top-34-ruby-on-rail-interview-questions/" rel="noreferrer" target="_blank" title="Mention what is the function of garbage collection in Ruby on Rails? Interview Questions Source To Answer">career.guru99.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 31. How does Ruby on Rails use the Model View Controller (MVC) framework?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 32. What is the use of Destructive Method?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 33. Mention what is the purpose of RJs in Rails?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 34. What Are Filters?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 35. Mention what is the difference between the Observers and Callbacks in Ruby on Rails?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 36. Explain what is Polymorphic Association in Ruby on Rails?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 37. Explain what is Interpolation in Ruby?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 38. What exactly are Harnesses and Fixtures in the Ruby?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 39. What is the difference between &amp;&amp;, || operators and "and, or"?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 40. Can you explain the difference between ActiveSupport’s “HashWithIndifferentAccess” and Ruby’s “Hash”?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 41. What is the difference between symbol and string?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 42. What Is The Difference Between Delete And Destroy?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 43. What Is A Proc?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 44. Mention what is the difference between calling super() and super call?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 45. Practical test: Genres of music</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 46. Explain Ruby on Rails Exception Handling</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 47. What is the difference between string and text in Rails?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 48. What is the Difference Between Gem And Plugin?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 49. What is ActiveJob? When should we use it?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 50. What Is The Difference Between "Save" And "Save!"?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 51. Is Rails Scalable?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 52. What are Strong Parameters?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 53. What Do You Mean By Naming Convention In Rails?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 54. Does Ruby Support Single Inheritance/multiple Inheritance Or Both?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 55. What is Rack?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 56. What Is The Flash?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 57. How Many Types Of Callbacks Available In Ror?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 58. Explain the difference between Page, Action, Fragment, Low-Level, SQL caching types.</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 59. What is the difference between content_for and yield?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 60. How would you choose between Belongs_to And Has_one?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 61. What Are Filters? And How Many Types Of Filters Are There In Ruby?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 62. What is Dynamic Finders?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 63. What sort of problems you have faced with Ruby on Rails and how do you think the same can affect the projects?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 64. What is the best thing which you find about the Ruby on Rail so far?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 65. How To Use Two Databases Into A Single Application?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 66. What is a Rails engine?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 67. Node.js vs Ruby on Rails. Which would you choose?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 68. What is Asset Pipeline?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 69. How To Find Second Max Element From Database?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 70. How to check if a specific key is present in a hash or not?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 71. How to rollback a specific migration?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 72. How Do I Find Only Duplicate Entries In A Database Table?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/rubyOnRails-interview-questions">all 72 answers</a></div> <br><br></div> <div data-v-5e9078c0="" class="end"></div> <br data-v-5e9078c0="">
-    Thanks 🙌 for reading and good luck on your next tech interview!
-    <br data-v-5e9078c0="">
-    Explore 3800+ dev interview question here 👉
-    <a data-v-5e9078c0="" href="https://devinterview.io/">Devinterview.io</a></div> <!----></div>
+# 100 Must-Know Ruby on Rails Interview Questions
+
+<div>
+<p align="center">
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+</a>
+</p>
+
+#### You can also find all 100 answers here 👉 [Devinterview.io - Ruby on Rails](https://devinterview.io/questions/web-and-mobile-development/ruby-on-rails-interview-questions)
+
+<br>
+
+## 1. What is _Ruby on Rails_, and why is it popular for _web development_?
+
+**Ruby on Rails**, often termed simply as **Rails**, is a popular web application framework known for its simplicity and productivity.
+
+It is built on the **Ruby** programming language and adheres to the **MVC** (Model-View-Controller) architectural pattern. Rails takes a strong stance on conventions over configurations, reducing the need for boilerplate code.
+
+### Key Components
+
+- **Active Record**: Simplifies data handling from databases, treating tables as classes and rows as objects.
+- **Action View**: Manages user interface elements like forms and templates.
+- **Action Controller**: Handles requests, processes data, and manages flow between models and views.
+
+Rails also comes with an integrated testing suite and a robust security system.
+
+### Notable Advantages
+
+- **Developer-Friendly Syntax**: Ruby on Rails prioritizes readability, allowing easy collaboration across teams.
+- **Unmatched Ecosystem**: The open-source community continually provides modules, referred to as gems, for rapid feature integration.
+- **Enhanced Productivity**: The framework's emphasis on best practices automates various tasks, reducing development time.
+- **Scalability**: While initially receiving criticism in this area, the framework has evolved to handle large-scale applications effectively.
+
+### Code Example: Ruby on Rails Core Components
+
+Here is the Ruby code:
+
+```ruby
+# ActiveRecord model
+class User < ApplicationRecord
+  has_many :posts
+end
+
+# Controller
+class UsersController < ApplicationController
+  def show
+    @user = User.find(params[:id])
+  end
+end
+```
+
+### More About Its Philosophy
+
+Rails' philosophy, in a nutshell, can be described with the term **Optimistic Assumptions**. This means, the default setup works well for most cases, but developers can override these assumptions when necessary.
+
+This design philosophy alongside a strong focus on **developer happiness** is why Ruby on Rails has been one of the leading web frameworks for almost two decades.
+<br>
+
+## 2. Describe the _MVC_ architecture in _Rails_.
+
+**Model-View-Controller** (MVC) is a design pattern embraced by Ruby on Rails. It organizes code into three interconnected components to improve maintainability, separation of concerns, and ease of modification.
+
+### Components of MVC
+
+- **Model**: Manages the application's data, logic, and rules. It directly interacts with the database. In Rails, models are typically their own Ruby class.
+- **View**: Handles the displaying of data to the user. In Rails, views are often characterized by ERB templates, which combine HTML with embedded Ruby for dynamic content.
+- **Controller**: Acts as an intermediary between the model and view, interpreting data to provide the necessary visualization. It responds to user input and performs tasks following the instructions defined in the model. Each **public** method in a Rails controller corresponds to an **action** that can be invoked by an incoming HTTP request.
+
+### Code Example: Basic MVC Relationship
+
+Here is the Ruby code:
+
+```ruby
+# Controller
+class ArticlesController < ApplicationController
+  def index
+    @articles = Article.all
+  end
+end
+
+# Model
+class Article < ApplicationRecord
+end
+
+# View (ERB)
+<% @articles.each do |article| %>
+  <li><%= article.title %></li>
+<% end %>
+```
+
+In this example:
+
+- The `Article` model represents a table in the database and is defined by inheriting from `ApplicationRecord`.
+  
+- The `ArticlesController` has a single action, `index`, which retrieves all articles using the `Article` model and makes them available to the associated view.
+
+- The View iterates through the list of articles, displaying their titles.
+
+### Responsibilities of MVC Components
+
+#### Model
+
+- Represents the structure and behavior of the application, independent of the user interface. ([](#MVC))
+- Performs various tasks like data validation, relationships, and business logic. For instance, it ensures that a 'User' object should have a unique email id.
+
+#### View
+
+- Displays information to the user, with a layout and style. It might contain conditional logic or loops but should remain free of data retrieval and complex data manipulation..
+
+#### Controller
+
+- Coordinates the flow of data between the model and view. It receives input from the users (HTTP requests) and directs that input to the model or view as needed. ([](#MVC))
+
+  For example, when a user initiates a new article creation in the web app, the `new` action (a public method in the controller) will present a form (via the view) to the user. Any data input from the form post will be handled by the `create` action, which passes the data to the model for storage.
+<br>
+
+## 3. What are _Gems_ and how do you use them in a _Rails_ project?
+
+**Gems** are pre-built, reusable packages in Ruby on Rails, serving similar purposes as libraries do in other languages. They streamline common software development tasks and add functionality to your application. RubyGems, the package manager for Ruby, is responsible for managing these gems.
+
+- **Install Gems**: Use the `gem` command-line tool to install a gem into your system, making it globally accessible:
+
+  ```bash
+  gem install specific_gem
+  ```
+
+- **Require Gems**: When a gem is installed, you need to `require` it in your code. However, when using Rails, many gems are automatically loaded, removing the need for an explicit `require` statement:
+
+  ```ruby
+  require 'specific_gem'
+  ```
+
+- **Filter Gems**: You can specify the versions of gems to use within your application by including them in the `Gemfile`. Upon doing so, the `bundle` tool installs gems that match the defined criteria:
+
+  ```ruby
+  # In Gemfile
+  gem 'specific_gem', '~> 3.0.1'
+  ```
+
+- **Load Gems**: After defining the gems in the `Gemfile`, execute the `bundle` command to load the dependencies:
+
+  ```bash
+  bundle install
+  ```
+
+  Then use the `Bundler.require` directive in your application:
+
+  ```ruby
+  # In config/application.rb. This line is generally already present.
+  Bundler.require(*Rails.groups)
+  ```
+
+This process minimizes version conflicts and ensures a consistent development environment across different machines.
+
+### Advanced Gem Management
+
+1. **Development Mode**: Rather than installing the entire set of gems for an application, the `group` declaration in the `Gemfile` lets you segregate them for specific environments.
+
+   Choose from predefined groups like `:development` or `:test`:
+
+   ```ruby
+   # In Gemfile
+   group :development, :test do
+     gem 'specific_gem', require: false
+   end
+   ```
+
+   Then, install gems without these groups in the development or production environment:
+
+   ```bash
+   bundle install --without development test
+   ```
+
+   Gems enclosed in the development block won't be accessible in the `production` environment.
+
+2. **Single Responsibility**: Adhere to the Single Responsibility Principle with packaging gems that tackle a specific concern, offering focused functionality.
+
+3. **Gem Naming Conventions**: Comprehensible gem names make them more discoverable and easier to understand.
+
+4. **Exposing Functionality**: Reveal gem features through a straightforward API and comprehensive documentation.
+
+5. **Avoiding Duplication**: Determine if a gem introduces functionality that's already available in another installed gem, to prevent redundancy.
+<br>
+
+## 4. What is the purpose of the _Gemfile_ in a _Rails_ application?
+
+The `Gemfile` in a Ruby on Rails application acts as a manifest of all required gems for the project.
+
+It serves as the foundation for the **Bundler** tool, which automates the process of managing and versioning gem dependencies.
+
+### Bundler: Gem Management and Version Control
+
+Bundler tracks gem versions to ensure project consistency across different environments and team members. It also keeps a record of specific gem versions in the project's `Gemfile.lock`.
+
+#### Mechanism of **Gemfile.lock**
+
+When Bundler installs or updates gems, it incorporates them into the project with precision according to the versions recorded in `Gemfile.lock`.
+
+This feature is particularly beneficial for collaboration, as it preserves a consistent gem "snapshot" for all contributors.
+
+#### Gems Grouping
+
+The `Gemfile` segments gems into groups, each accommodating specific needs. For instance, the `:development` group hosts gems necessary during the development phase.
+
+```ruby
+group :development, :test do
+  gem 'rspec-rails'
+  gem 'pry'
+end
+```
+
+#### Advantages
+
+- **Ease of Setup**: New project collaborators can swiftly onboard by leveraging the `Gemfile` and `Gemfile.lock`.
+- **Version Consistency**: Bundler enforces uniformity in gem versions, minimizing potential compatibility issues.
+- **Optimized Deployment**: Bundler ensures that only required gem versions are transferred in production environments.
+
+### Best Practices
+
+- **Regular Updates**: Periodically update gems to access new features, improvements, and security patches while checking for compatibility with updated versions.
+- **Shared Understanding**: Collaborators should be familiar with the gems enlisted in the `Gemfile`.
+<br>
+
+## 5. How do you install a _Ruby gem_?
+
+To install a **Ruby gem**, start by using either of the following:
+
+- Directly from RubyGems.org: `$ gem install gem_name`
+- From a local file: `$ gem install /path/to/gem.gem`
+
+To select a specific version, add the `--version` flag, and for developer tools, use the `--dev` or `--development` flags.
+
+For development or testing, it's best to install gems in your project's directory, a process known as **bundling**.
+
+### Common bundler commands
+
+#### Bundle Install
+
+The `bundle install` command installs all gem dependencies in the local project, as specified in the `Gemfile`.
+
+#### Bundle Update
+
+Running `bundle update gem_name` updates the specified gem to its latest version. To update all gems, omit the gem name.
+
+### Using Gemfile and Gemfile.lock
+
+- **Gemfile**: This file lists all the gems your project depends on and any rules for their usage.
+- **Gemfile.lock**: This companion file records the specific gems and versions that are currently in use.
+
+Always check both files into version control. This practice ensures a consistent development and production environment for your team.
+
+### Steps to bundle gems
+
+#### Initialize a Gemfile
+
+If your project doesn't have a `Gemfile` yet, run `bundle init` in its directory to create one.
+
+#### Add Gems
+
+In the `Gemfile`, list all your project's gem dependencies and any version or source restrictions.
+
+For example:
+
+```ruby
+# Gemfile
+source 'https://rubygems.org'
+
+gem 'rails', '~> 6.0'
+gem 'sqlite3'
+```
+
+#### Install Dependencies
+
+Finally, to install the defined gem set from the `Gemfile` into the local directory, run `bundle install`. This action creates or updates `Gemfile.lock`, locking down precise gem versions for your project.
+<br>
+
+## 6. Explain how to generate a new _Rails_ application.
+
+When starting a **Rails** project, you use the `rails new` directive in a terminal shell or command prompt.
+
+### The Command
+
+Here is the command you can use to create a new Rails application:
+
+```bash
+rails new myapp
+```
+
+Where `myapp` is the name of your new application.
+
+### Essential Flags
+
+- **Template**: Use `-m` to specify a pre-defined template or script that customizes the initial structure and content of your app.
+- **Database**: `-d` specifies your preferred database; use either `sqlite3`, `mysql2`, `postgresql`, or `oracle`.
+
+### Advanced Configurations
+
+You can tailor your `rails new` command further by interfacing with the following tools:
+
+- **Bundler**: Configure your **Gemfile** settings using `-B` or `--skip-bundle` to avoid running Bundle Install.
+- **JavaScript Runtime**: Utilize one of the available JavaScript runtimes by specifying `-j <runtime>`. The typical choices are `coffee` (CoffeeScript), `esm` (ESM), or `importmap` (Importmap).
+- **Web Server**: Indicate your preferred web server for the development environment with `--dev <server>`. Common choices include `puma` (Puma) and `thin` (Thin).
+- **API**: Create an API-only app via `--api` to exclude traditional middleware.
+
+### Sample Command
+
+```shell
+rails new myapp -m template.rb -d postgresql
+```
+
+This command generates a new application called `myapp`. It customizes the initial setup utilizing a template from `template.rb` and sets PostgreSQL as the database.
+
+### Common Mistakes
+
+- **Improper Installation**: Ensure Rails is installed in your system before executing `rails new`. If it isn't, first run `gem install rails`.
+- **Compatibility Issues**: Make sure your system has the requisite versions of Ruby and Rails for the application you wish to build. You can verify this by referencing the project's documentation.
+
+### Further Considerations
+
+The `rails new` directive creates an initial project structure according to a standardized configuration, known as "convention over configuration". This approach aims to minimize the need for extensive setup procedures, enabling you to start developing your project right away.
+<br>
+
+## 7. What is the _convention over configuration_ principle?
+
+**Convention over Configuration** is a foundational principle in **Ruby on Rails** that streamlines development through pre-defined rules, reducing the need for explicit configurations.
+
+This design philosophy centers around the concept of **defaults** and **predictable naming conventions**, effectively cutting down on repetitive code and providing a more unified structure to Rails projects.
+<br>
+
+## 8. How do you define a _route_ in _Rails_?
+
+In Ruby on Rails, **routes** define how an HTTP request is processed, matching it to a controller action.
+
+### Components
+
+1. **HTTP Verb**: The action (GET, POST, PUT, DELETE) that triggers the route.
+2. **Path**: The URL that the matching request accesses.
+3. **Controller#Action**: Specifies the controller and its method to handle the request.
+
+### Syntax
+
+Here is how to define the route:
+
+- **Simple Route**: Uses the match method to map a path to a specific controller and action.
+
+  - Ruby on Rails 3.0 and above
+    
+    ```ruby
+    match '/articles/:id', to: 'articles#show', via: 'get'
+    ```
+
+  - Ruby on Rails 4.0 and above
+
+    ```ruby
+    get '/articles/:id', to: 'articles#show'
+    ```
+
+- **Resource Routes**: Utilizes a RESTful interface to define multiple routes for a resource.
+
+  ```ruby
+  resources :articles
+  ```
+
+- **Redirect**: Sends a 301 or 302 HTTP status code and a URL to redirect the request to.
+
+  ```ruby
+  get '/stories', to: redirect('/articles')
+  ```
+
+- **Non-Resourceful Routes**: For custom actions that do not fit REST conventions, use the add_route method.
+
+  ```ruby
+  DynamicRouter::Routing.build do
+      add_route 'futurama/:planet', :controller => 'tasks', :action => 'futurama'
+  end
+  ```
+
+### Route Helpers
+
+For a cleaner and more robust approach, use **route helpers**.
+
+- They auto-generate paths and URLs. 
+- They're standardized, reducing errors and making the code more maintainable.
+
+#### Example: Route Helpers in Action
+
+The code could look like this:
+
+```ruby
+# routes.rb
+resources :articles do
+  collection do
+    get :published
+  end
+end
+
+# article_controller.rb
+class ArticlesController
+  def publish
+    @articles = Article.where(published: true)
+  end
+end
+```
+
+Using route helpers, the matching URL for the `publish` action in the `ArticlesController` will be `/articles/published`.
+<br>
+
+## 9. Explain the use of _yield_ in _Rails_ layouts.
+
+**Yielding** in Ruby on Rails allows for partial **content injection**, making layouts versatile and adaptable to specific view needs.
+
+### Mechanism
+
+- **Placeholder**: The `yield` command in the layout creates a temporary placeholder for the content that views will inject.
+
+  ```erb
+  <header>
+    <%= yield :header_content %>
+  </header>
+  <nav>
+    <%= yield :navigation %>
+  </nav>
+  <main>
+    <%= yield %>
+  </main>
+  ```
+
+- **Injection**: In views, corresponding `content_for` commands designate where they should inject content within the layout.
+
+  ```erb
+  <% content_for :header_content do %>
+    <h1>Welcome to My Site</h1>
+  <% end %>
+
+  <% content_for :navigation %>
+    <ul>
+      <li><%= link_to 'Home', root_path %></li>
+      <li><%= link_to 'Blog', blog_path %></li>
+    </ul>
+  <% end %>
+  ```
+
+- **Render Flow**: When views render, the `content_for` content is placed into the named **yield sections** (if provided) or, by default, into the main one.
+
+  ```erb
+  # => Layout Output
+  # <header>
+  #   <h1>Welcome to My Site</h1>
+  # </header>
+  # <nav>
+  #   <ul>
+  #     <li><%= link_to 'Home', root_path %></li>
+  #     <li><%= link_to 'Blog', blog_path %></li>
+  #   </ul>
+  # </nav>
+  # <main>...</main>
+  ```
+
+### Benefits
+
+- **Separation of Concerns**: Promotes clear distinctions between layout and content.
+- **Dynamic Layouts**: Allows customization based on view-specific needs.
+- **Concise Content Definition**: Content definition in views is done close to the action it's associated with.
+- **Reusable Components**: Named yield sections permit reusability across various views.
+
+### Code Example: Yield in Layout and Views
+
+#### User Layout
+
+Here's the layout that provides placeholders for specific pieces of content.
+
+##### Layout: user.html.erb
+
+```erb
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Management</title>
+  <%= stylesheet_link_tag 'user' %>
+  <%= javascript_include_tag 'user' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <header>
+    <%= yield :user_header %>
+  </header>
+  <nav>
+    <ul>
+       <li><%= link_to 'Users', users_path %></li>
+       <li><%= link_to 'Settings', user_settings_path %></li>
+    </ul>
+    <%= yield :user_nav %>
+  </nav>
+  <main>
+    <%= yield %>
+  </main>
+</body>
+</html>
+```
+
+#### User List View
+
+This view tailors content for the user layout, populating specific sections.
+
+##### View: users/index.html.erb
+
+```erb
+<% content_for :user_header do %>
+  <h1>Manage Users</h1>
+<% end %>
+
+<% content_for :user_nav do %>
+  <li><%= link_to 'Roles', user_roles_path %></li>
+<% end %>
+
+<%= render 'user_table', users: @users %>
+```
+
+#### Administrative Layout
+
+If there is a need for a different look and feel for administrative pages, a separate layout can also be defined, like so:
+
+##### Layout: admin.html.erb
+
+```erb
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Administration</title>
+  <%= stylesheet_link_tag 'admin' %>
+  <%= javascript_include_tag 'admin' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <header>
+    <h1>Welcome, Admin!</h1>
+  </header>
+  <nav>
+    <ul>
+       <li><%= link_to 'Dashboard', admin_dashboard_path %></li>
+       <li><%= link_to 'Users', admin_users_path %></li>
+       <li><%= link_to 'Settings', admin_settings_path %></li>
+    </ul>
+  </nav>
+  <main>
+    <%= yield %>
+  </main>
+</body>
+</html>
+```
+
+#### Administrative List View
+
+```erb
+<% content_for :title, "User Management - Admin" %>
+
+<% content_for :header, "Admin Dashboard" %>
+
+<% content_for :main do %>
+  <% @users.each do |user| %>
+    <p><%= user.name %> - <%= user.role %></p>
+  <% end %>
+<% end %>
+
+<%= render 'admin', users: @users, roles: @roles %>
+```
+<br>
+
+## 10. What is _CRUD_, and how is it implemented in _Rails_?
+
+In **Ruby on Rails**, the **CRUD** actions (Create, Read, Update, Delete) profoundly simplify database interactions through a Model's active record representation.
+
+### Key Components
+
+- **Model**: Represents the data and its rules.
+- **View**: Presents data to the user.
+- **Controller**: Acts as an intermediary that processes user input and interacts with the model and view.
+
+### Simplified Workflow
+
+1. **Create**: `POST` an entity data to the server.
+2. **Read**: Fetch all entities with `GET` or a specific one by ID.
+3. **Update**: `PUT` the modified entity.
+4. **Delete**: Remove an entity with a `DELETE` request.
+
+### Code Example: Rails Routes
+
+The following code illustrates RESTful routes often used in **Rails**:
+
+```ruby
+# config/routes.rb
+resources :posts
+```
+This statement generates routes for all **CRUD** actions to interact with the `Post` model:
+
+- **Create**: `/posts/new`
+- **Read**: `/posts` for all, `/posts/:id` for one
+- **Update**: `/posts/:id/edit`
+- **Delete**: `delete 'posts/:id'`
+
+### Advanced Techniques
+
+#### Dynamic Actions
+
+For more detailed procedures, custom routes can be defined in conjunction with elaborate controller methods.
+
+#### Partial Resources
+
+In cases where access to only a subset of resource actions is necessary, the `:only` and `:except` options can be employed to limit defaults.
+
+### Final Thoughts
+
+**RESTful** design, championed by **Rails**, has proven instrumental in establishing standard interactions across web platforms, fostering interoperability and predictability. When building applications, ensure a methodical approach is employed to optimize accessibility and security of resources.
+<br>
+
+## 11. What is the purpose of a _controller_ in _Rails_?
+
+The **controller** in Ruby on Rails serves as the processing hub for HTTP requests and determines the application's response. It plays a central role in implementing the **MVC** architecture.
+
+By collecting user input from the view, handling data from the model, and finally responding back to the view, the controller acts as the fulcrum for application logic and external interaction.
+
+### Key Responsibilities
+
+#### Input Handling
+
+The controller is responsible for processing and validating data received from the client. Any data manipulation or validation logic, such as form input sanitation, goes through the controller before updating the model.
+
+#### Model Interaction
+
+The controller mediates interactions between the view and the model. It retrieves and updates data from the model as needed.
+
+#### View Selection and Rendering
+
+Upon completing its processing, the controller determines which view to display to the user and provides the necessary data for rendering. A typical flow involves the controller making a request to the view for the necessary data to be displayed, after which the controller sends this data to the users for display in the view.
+
+#### HTTP Response Generation
+
+The controller is responsible for generating an appropriate HTTP response, be it a redirect, a successful data submission message, or an error notification.
+
+### Code Example: Controller Responsibilities
+
+Here is the code:
+
+```ruby
+class ArticlesController < ApplicationController
+  # Input Handling: article_params is a method that ensures only specific attributes are accepted from the request.
+  def create
+    @article = Article.new(article_params)
+    if @article.save
+      redirect_to @article, notice: 'Article was successfully created.'
+    else
+      render :new
+    end
+  end
+
+  # Model Interaction: Fetches all articles to be displayed in the index view.
+  def index
+    @articles = Article.all
+  end
+
+  # View Selection and Rendering: Routes to the Edit article form through the view.
+  def edit
+    @article = Article.find(params[:id])
+  end
+
+  # HTTP Response Generation: Destroys the article and redirects to the index showing a notice.
+  def destroy
+    article = Article.find(params[:id])
+    article.destroy
+    redirect_to articles_url, notice: 'Article was successfully destroyed.'
+  end
+
+  private
+  def article_params
+    params.require(:article).permit(:title, :text)
+  end
+end
+```
+<br>
+
+## 12. How do you pass data from a _controller_ to a _view_?
+
+In **Ruby on Rails**, the primary way to transfer data from the **controller** to the **view** is by using **instance variables**.
+
+### Using Instance Variables
+
+#### Setting Data in the Controller
+
+```ruby
+class ArticlesController < ApplicationController
+  def show
+    @article = Article.find(params[:id])
+  end
+end
+```
+
+Here, `@article` is accessible within the `show` view.
+
+#### Accessing Data in the View
+
+You can directly display data in views:
+
+```erb
+<%= @article.title %>
+```
+
+### Limitations
+
+- **Global visibility**: All instance variables set in a controller's action are available to the corresponding view. This can be a cause of accidental data leakage and can make code harder to follow.
+- **Lack of Context**: Misuse of instance variables can sometimes lead to difficulty in understanding which action set a variable currently being used in the view.
+
+### Tips and Best Practices
+
+- **Keep it As Needed**: Only fetch and set data needed for the specific view being rendered. Reduce unnecessary database queries.
+- **Isolate State**: Minimize the use of shared state, especially if views can be rendered in a concurrent fashion. Try to make views independent of each other. If shared state is unavoidable, ensure any mutations are localized and minimized to specific actions for consistency and predictability.
+
+### Code Implementation: Data Leakage Vulnerability
+
+Consider this example:
+
+```ruby
+class UsersController < ApplicationController
+  def show
+    @user = User.find(params[:id])
+    @orders = @user.orders
+  end
+
+  def refresh_orders
+    @user = User.find(params[:id])
+    @orders = @user.orders.where(status: 'pending')
+    render :show
+  end
+end
+```
+
+If `refresh_orders` is called from the `show` view, the view will now display filtered orders from the `refresh_orders` method. This is not the expected behavior, and it's a classic instance of data leakage.
+<br>
+
+## 13. Explain the _Rails controller action lifecycle_.
+
+The **Rails controller action lifecycle** involves a sequence of steps that handle web requests. Let's look at each step in this process, from initial request to the returned response.
+
+### Overview of the Controller Action Lifecycle
+
+1. **Routing**: Determines the appropriate controller and action based on the incoming URL.
+2. **Controller Initialization**: Sets up the controller and any associated parameters or named routes.
+3. **Before Actions**: Executes any methods configured as "before actions". Commonly used for tasks like authentication and authorization.
+4. **Action Execution**: Invokes the method named after the action (e.g., `show` for the GET "show" route).
+5. **View Rendering**: The controller prepares data to be sent to the view for rendering.
+6. **After Actions**: Carries out any specified tasks after the action method and before the response is sent.
+7. **Response Construction**: Combines data and any established HTTP headers to create the response.
+
+### Code Example: Request-Response Lifecycle
+
+Here is the Rails code:
+
+```ruby
+# app/controllers/articles_controller.rb
+class ArticlesController < ApplicationController
+  # Step 3: Before actions
+  before_action :find_article, only: [:show, :edit, :update, :destroy]
+
+  # Step 4: Action execution
+  def show
+    # Step 5: View rendering
+    # Renders the 'show' template by default
+  end
+
+  private
+
+  # Example of a 'before' method
+  def find_article
+    @article = Article.find(params[:id])
+  end
+end
+```
+<br>
+
+## 14. How do you handle _parameters_ in a _controller action_?
+
+When you work in Ruby on Rails, most of the data is **accessed through ActiveRecord models**, either by direct retrieval or through relationships.
+
+However, there are cases where you need to **directly handle parameters**, especially for more complex data flows or for actions that don't involve models.
+
+### Parameter Handling
+
+Rails' `ActionController::Parameters` ensures that **incoming parameters are secure**, and it structures them, providing tools for effortless processing. 
+
+This takes away the need for manual sanitation code or direct manipulation of the `params` hash.
+
+#### Security Benefits
+
+- **Strong Parameters**: Specify which parameters are permitted. This improves security by explicitly disallowing unwanted parameters.
+- **Mass-Assignment Protection**: Provide extra control over which attributes can be assigned, reducing the risk of overwriting sensitive data.
+- **Automatic Type Casting**: The system attempts to cast parameters to the expected types, increasing predictability and security. For instance, if you expect an integer, non-integer strings would be rejected.
+
+### Common Patterns
+
+#### Parameter-Driven Logic
+
+In some cases, actions are required based on specific parameters. While it can be more favorable to approach this through RESTful routes and action methods, there might be cases where a single action has varied responsibilities based on input. 
+
+However, it's advisable to use such patterns sparingly, favoring clear and predictable semantics that are easier to maintain.
+
+#### Direct Parameter Manipulation
+
+Direct `params` hash manipulation presents challenges and isn't recommended in most scenarios due to:
+
+- **Security Vulnerabilities**: Manual sanitation can overlook potential threats.
+- **Code Maintainability**: If the app grows, it becomes increasingly challenging to track and manage direct hash manipulations.
+
+### Code Example: Accepting User Input as Parameters
+
+Here is the Python code:
+
+```python
+class UsersController():
+    # Adding or updating user via RESTful methods.
+    
+    def create(self, request):
+        # Example URL: /users
+        new_user = User.create(user_params(request))
+        return HttpResponse(f"User {new_user.name} created successfully.")
+    
+    def update(self, request, user_id):
+        # Example URL: /users/123
+        user = User.find(user_id)
+        user.update(user_params(request))
+        return HttpResponse(f"User {user.name} updated successfully.")
+    
+    # Additional action to suspend a user based on parameters.
+    def suspend(self, request):
+        # Example URL: /users/suspend
+        user = User.find_by(email: params['email'])
+        user.suspend
+        return HttpResponse(f"User {user.email} suspended successfully.")
+
+    def user_params(self, request):
+        return {
+            'name': request['name'],  # example: from a form or JSON payload
+            'email': request['email'],  # More fields can be added
+        }
+```
+
+### Recommendations
+
+- **Utilize RESTful Routing**: Whenever possible, let routing and clear naming suit the action types. This simplifies your codebase and makes it more predictable for others.
+- **Leverage Form Objects and Service Objects**: For complicated or non-standard operations, consider using form or service objects to encapsulate your logic and keep your controllers slim.
+- **Follow Conventions**: Unless you have compelling reasons to do otherwise, sticking to the conventions of Rails leads to a more maintainable and cohesive codebase.
+<br>
+
+## 15. What _filters_ are available in _Rails controllers_ and how do you use them?
+
+**Filter** methods in **Ruby on Rails** provide a powerful means to run code either before or after specific controller actions, or as a "catch-all" for multiple actions.
+
+### Prefilters
+
+Prefilters, which include `before_action`, `prepend_before_action`, define methods that execute before the associated action(s).
+
+#### Code Example: Using `before_action`
+
+```ruby
+class OrdersController < ApplicationController
+  before_action :authenticate_user!
+  
+  def show
+    @order = Order.find(params[:id])
+  end
+end
+```
+
+In this example, the `authenticate_user!` method is run before `OrdersController#show`.
+
+### Postfilters
+
+Postfilters, including `after_action` and `prepend_after_action`, run methods after the respective action is executed.
+
+#### Code Example: Using `after_action`
+
+```ruby
+class InvoicesController < ApplicationController
+  after_action :log_invoice_creation
+
+  def create
+    @invoice = Invoice.create(invoice_params)
+    redirect_to @invoice
+  end
+end
+```
+
+Here, `log_invoice_creation` is invoked after the `InvoicesController#create` action.
+
+### Around Filters
+
+Around filters, defined using the `around_action` method, encapsulate the associated action, providing a mechanism for code to run both before and after.
+
+#### Code Example: Using `around_action`
+
+```ruby
+class PaymentsController < ApplicationController
+  around_action :log_payment_process
+
+  def process
+    # Payment processing logic
+  end
+end
+```
+
+The `log_payment_process` method would wrap around `PaymentsController#process`, enabling both pre- and post-action code execution.
+
+### Functional Use-Cases
+
+- **Authorization and Authentication**: Execute before actions to validate user credentials.
+- **Parameter Processing**: Use as a "catch-all" for standardizing input data.
+- **Caching**: Employ after actions to cache certain results, optimizing performance.
+- **Log Maintenance**: Run methods before and after actions for detailed logging.
+
+### Application
+
+By integrating filters within the **Rails** controllers, one can ensure a centralized, systematic workflow across actions, fortifying the consistency and efficiency of the application.
+
+Using ActionController::Live live streaming is possible.
+Collects browser connection specific data, capturing segments of the activities.
+An application is initially identified by its **controller** and **action**, both of which can be customized. For instance, a **PostsController** typically has actions for creating, reading, updating, and deleting posts. Each of these actions comprises a series of steps aimed at handling the request, including interaction with the model and view layers.
+
+### Method Descriptions
+
+#### Parameters Requiring Authentication
+
+- `current_user`: Resolves the current user object, often used for user-specific operations.
+- `authenticate_user!`: Checks for user authentication and halts the chain if authentication fails.
+- `user_signed_in?`: Provides a boolean indicative of user presence.
+
+#### Public Methods
+
+- `public`: Marks an action as available publicly without requiring any pre-action steps.
+- ``External Redirects``: `redirect_to` or `redirect_back` can guide request flow externally.
+
+#### Response Handling
+
+- `respond_to`: Determines response format based on the associated MIME type. Helps when handling different content types like HTML, XML, or JSON. Handles AJAX requests more gracefully.
+- `head`: Sends an empty header-contained response, often used as a status verifier.
+
+#### About Sessions
+
+- `reset_session`: Wipes the session clean, helping to terminate user's session expressly. Can be useful when implementing logout functionalities.
+
+#### Redirects
+
+- `redirect_to`: Transfers request to a different URL, typically another action.
+  Example: `redirect_to dashboard_url, alert: "Operation failed!"`
+- `redirect_back`: Directs to the previous location known to the application, useful for things like cancellations or dynamically tracked pages like error pages or search results.
+
+### Action Defaults
+
+By default, an action is set up to respond to an HTTP GET request. This renders an HTML view generated by the details obtained via the action. Standard naming practices and RESTful routing lead to predictable action and view associations.
+
+#### Common Action Naming Conventions
+
+- **New Record Creation**: Present a form for resource creation. Method: GET. Action: `new`.
+- **Record Creation**: Complete the process of creating a new resource using data from `params`. Method: POST. Action: `create`.
+- **Record Viewing**: Render the view of a previously created record. Method: GET. Action: `show`.
+- **Record Editing**: Present a form for updating an existing resource, often pre-populated with the current data. Method: GET. Action: `edit`.
+- **Record Update**: Complete the process of modifying an existing record using data from `params`. Method: PATCH or PUT. Action: `update`.
+- **Record Deletion**: Remove an existing resource. Method: DELETE. Action: `destroy`.
+
+These mapping conventions between standard controller actions and RESTful CRUD operations not only are insightful for any developer following these conventions, but also they enable a standardized and intuitive use of resources.
+
+### Rake Tasks : Making Use of it
+
+'Rake' tasks, such as those used for database setup or clean-up tasks, can be fused directly into controller actions, providing a mechanism to manage or observe these tasks through URL requests. This strategy aligns well when ensuring a controlled setting for such tasks.
+
+#### Code Example: Integration of Rake Task within a Controller Action
+
+```ruby
+class DatabaseTasksController < ApplicationController
+  def reset
+    ActiveRecord::Tasks::DatabaseTasks.reset_database
+    redirect_to root_path, notice: 'Database reset complete.'
+  end
+end
+```
+
+In this example, navigating to `localhost:3000/database_tasks/reset` triggers the reset action.
+<br>
+
+
+
+#### Explore all 100 answers here 👉 [Devinterview.io - Ruby on Rails](https://devinterview.io/questions/web-and-mobile-development/ruby-on-rails-interview-questions)
+
+<br>
+
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+</a>
+</p>
+
